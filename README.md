@@ -1,2 +1,7 @@
 # Conversion_de_Monedas
-Este proyecto es un sencillo conversor de monedas que permite a los usuarios convertir entre diferentes divisas. El conversor obtiene los tipos de cambio actuales de una API externa y los utiliza para realizar las conversiones.
+Este proyecto consiste en un conversor de monedas desarrollado en Java. Permite a los usuarios convertir entre diferentes divisas utilizando tipos de cambio actualizados en tiempo real. El código realiza solicitudes a una API externa y manipula datos JSON para obtener las tasas de cambio y realizar las conversiones.
+
+Tecnologías utilizadas
+* Lenguaje de programación: Java
+* Librería para manejar JSON: Gson
+
